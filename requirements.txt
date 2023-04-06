@@ -1,0 +1,9 @@
+# instructions
+# Make sure cntlm is configured and listening on 127.0.0.1:3128
+# python -m pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org --proxy "http://127.0.0.1:3128" -r requirements.txt
+
+oracledb
+pandas
+psycopg2
+sqlalchemy
+setuptools
